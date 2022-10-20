@@ -1,1 +1,1 @@
-git pull --rebase origin master
+git clone https://github.com/Funny-Rainbow/spcDryerWeb
